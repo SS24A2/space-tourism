@@ -27,7 +27,7 @@ export default function Header({ selectedPage }) {
                     }
                 >
                     <Link to="/">
-                        <span>00</span>
+                        <span>0000</span>
                         <span>Home</span>
                     </Link>
                 </li>
